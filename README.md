@@ -3,17 +3,17 @@
 
 <img align="right" alt=“coding” width=“500”  src=https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif>
 
-- 🔭 I’m currently working at Tech Solve Engine (as Technical Support Engineer)
+- 🔭 I’m currently working at Tech Solve Engine (Systems Engineer)
 
 - 🌱 I’m currently learning **Javascript, python,database, selenium**
 
-- 👯 I’m looking to work at **Testing domain**
+- 👯 I’m looking to work at **Testing domain/ Networking**
 
 - 💬 Ask me about **Basic Networking and firewall setup, Mail Migrations, workspace management, and all IT related topics.**
 
 - 📫 How to reach me **nikhilhr98@gmail.com**
 
-- 📄 Know about my experiences [a](a)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I love challenges and adapt new technology.**
 
